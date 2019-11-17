@@ -37,4 +37,5 @@ The widget is only available for use in the US, but if you're intent on using Co
 
 Sorry, at the moment debit cards are the only accepted payment method.
 
-Try it out, and let us know what you think!
+Coba, dan beri tahu kami pendapat Anda!
+paypal, atau payeer mungkin ,,?
